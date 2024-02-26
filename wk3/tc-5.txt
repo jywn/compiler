@@ -1,0 +1,73 @@
+int x;
+
+ 
+
+int f(int x) {
+
+  int y;
+
+  bool b;
+
+ 
+
+  if(y) {
+
+    y = -b;
+
+  }
+
+  else {
+
+    y = k;
+
+  }
+
+ 
+
+  return y;
+
+}
+
+ 
+
+void g(int x, int y, bool z) {
+
+  z = (x > y);
+
+  return z;
+
+}
+
+ 
+
+int main(void) {
+
+  x = 1 + true;
+
+ 
+
+  f();
+
+  f(true);
+
+  f(1, 2);
+
+ 
+
+  while(x) {
+
+    x();
+
+    g = 1;
+
+  }
+
+ 
+
+  g(1,2,true);
+
+  g(1,true,2);
+
+}
+
+ 

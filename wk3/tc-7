@@ -1,0 +1,192 @@
+int x;
+int xx;
+bool y;
+
+void f (void){
+    x = 1;
+
+        x = true;
+
+        y = 1;
+
+        y = true;
+
+        g = 1;
+
+        x = g();
+
+        x = g(1);
+
+        y = g(1);
+
+        k = 1;
+
+        jkl();
+
+        x = jkl();
+
+        x = k;
+
+x = y(2);
+
+        int a;
+
+        a = 1;
+
+        if(x){}
+
+        bool x;
+
+x = true;
+
+        while(1){
+
+if(1){}
+
+                if(a){}
+
+                if(x){}
+
+        }
+
+ 
+
+        z = false;
+
+ 
+
+ 
+
+xx = 1 + 1;
+
+xx = 1 + true;
+
+    xx = true + true;
+
+    xx = 1 - true;
+
+    xx = 1 * true;
+
+    xx = 1 / true;
+
+xx = -1;
+
+xx = - true;
+
+    xx = 1 == 1;
+
+y = 1 == 1;
+
+y = true == true;
+
+y = 1 == true;
+
+y = 1 != 1;
+
+y = 1 != true;
+
+y = true != 1;
+
+y = true != true;
+
+xx = 1 < 1;
+
+y = 1 < 1;
+
+y = 1 < true;
+
+y = true < 1;
+
+y = true < true;
+
+xx = 1 <= 1;
+
+y = 1 <= 1;
+
+y = 1 <= true;
+
+y = true <= 1;
+
+y = true <= true;
+
+y = 1 > true;
+
+    y = true > true;
+
+y = true >= true;
+
+y = true || true;
+
+y = true || 1;
+
+y = true && 1;
+
+y = 1 && 1;
+
+y = !1;
+
+y = !true;
+
+ 
+
+y = h2(1);
+
+y = h2(true);
+
+y = h2(1, 2);
+
+y = h2();
+
+ 
+
+if(1){
+
+y = true != true;
+
+y = h2(2);
+
+}else{
+
+x = j(true);
+
+j(true, false);
+
+}
+
+return true;
+
+}
+
+ 
+
+int g (void){
+
+ 
+
+return 1;
+
+}
+
+ 
+
+bool h1 (int a){
+
+return 0;
+
+}
+
+ 
+
+bool h2 (int a){
+
+return true;
+
+}
+
+ 
+
+void j (bool a){
+
+ 
+
+}
