@@ -1,0 +1,5 @@
+int f() {
+  bool a;
+  a = true;
+  return ~a;
+}
